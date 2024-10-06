@@ -1,0 +1,17 @@
+../useradd/src/mpu6050.c:27:9:MPU6050_ReadOneByte	40	static
+../useradd/src/mpu6050.c:37:6:MPU6050_WriteOneByte	32	static
+../useradd/src/mpu6050.c:42:6:MPU6050_WriteBits	32	static
+../useradd/src/mpu6050.c:58:6:MPU6050_WriteOneBit	24	static
+../useradd/src/mpu6050.c:70:6:MPU6050_ReadBuff	32	static
+../useradd/src/mpu6050.c:76:6:MPU6050_Check	8	static
+../useradd/src/mpu6050.c:88:6:MPU6050_CalAvgValue	32	static
+../useradd/src/mpu6050.c:103:6:MPU6050_SetClockSource	16	static
+../useradd/src/mpu6050.c:108:6:MPU6050_SetFullScaleGyroRange	16	static
+../useradd/src/mpu6050.c:113:6:MPU6050_SetLPF	16	static
+../useradd/src/mpu6050.c:118:6:MPU6050_SetFullScaleAccelRange	16	static
+../useradd/src/mpu6050.c:123:6:MPU6050_SetSleepEnabled	16	static
+../useradd/src/mpu6050.c:128:6:MPU6050_SetI2CMasterModeEnabled	16	static
+../useradd/src/mpu6050.c:133:6:MPU6050_SetI2CBypassEnabled	16	static
+../useradd/src/mpu6050.c:138:6:MPU6050_GetData	56	static
+../useradd/src/mpu6050.c:166:6:MPU6050_InitOffset	72	static
+../useradd/src/mpu6050.c:195:6:MPU6050_Init	16	static
